@@ -1,4 +1,4 @@
-spotify ranking,number of total streams,name of song
+ranking,streams,name of song
 1,"3,146,266,206",Cruel Summer
 2,"2,262,996,886",Blank Space
 3,"2,018,824,444",* I Don’t Wanna Live Forever (Fifty Shades Darker)
@@ -498,4 +498,5 @@ spotify ranking,number of total streams,name of song
 497,"422,339",I Did Something Bad - Commentary
 498,"416,270",End Game - Commentary
 499,"415,304",We Are Never Ever Getting Back Together - Commentary
+
 500,"414,434",End Game - Karaoke Version
